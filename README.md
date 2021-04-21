@@ -1,5 +1,8 @@
-FirstClass describes an object
-TestClass works with an object
+Session 3 HW 	FirstClass describes an object
+		TestClass works with an object
+
+Session 4 HW	YahooEdgeTest.java works with MS Edge browser
+		YandexChromeTest.java works with Google Chrome browser
 
 <!---
 - 👋 Hi, I’m @Sergey-SQA
