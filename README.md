@@ -1,6 +1,6 @@
-<p><b>Session 3</b> FirstClass describes an object, TestClass works with an object;
+<p><b>Session 03</b> FirstClass describes an object, TestClass works with an object;
 
-<p><b>Session 4</b> YahooEdgeTest.java works with MS Edge, YandexChromeTest.java works with Google Chrome;</p>
+<p><b>Session 04</b> YahooEdgeTest.java works with MS Edge, YandexChromeTest.java works with Google Chrome;</p>
 
 <!---
 - 👋 Hi, I’m @Sergey-SQA

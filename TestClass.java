@@ -1,7 +1,7 @@
 import org.testng.annotations.Test;
 
 public class TestClass {
-
+//works with an object
     @Test
     public void testName() throws CloneNotSupportedException {
 
@@ -18,6 +18,7 @@ public class TestClass {
         System.out.println(FirstClass.compareAge(obj1, obj2));
 
         FirstClass.counterPrint();
+        System.out.println("GitHub added");
 
     }
 

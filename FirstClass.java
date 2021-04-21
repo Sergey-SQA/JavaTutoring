@@ -1,7 +1,7 @@
 import java.util.Date;
 
 public class FirstClass {
-
+//describes an object
     private String name;
     private int yearOfManuf;
     private int serialNo;
