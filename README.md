@@ -2,8 +2,8 @@
 
 <p><b>Session 04</b> YahooEdgeTest works with MS Edge; YandexChromeTest works with Google Chrome;</p>
 
-<p><b>Session 05</b> WindowsHandlesSrcTest verifys window by srec code; WindowSHandlesWebElTest verifys window by web element;
-BasteTest - parent class; InterviewTast - answer to interview question</p>
+<p><b>Session 05</b> WindowsHandlesSrcTest verifys the window by a src code; WindowSHandlesWebElTest verifys the window by a web element;
+BasteTest - Super class; InterviewTask - an answer to the interview question on Session 04</p>
 
 <!---
 - 👋 Hi, I’m @Sergey-SQA
