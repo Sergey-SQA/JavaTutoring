@@ -5,6 +5,10 @@
 <p><b>Session 05</b> WindowsHandlesSrcTest verifys the window by a code element; WindowSHandlesWebElTest verifys the window by a web element;
 BasteTest - Super class; InterviewTask - an answer to the interview question on Session 04;</p>
 
+<p><b>Session 08</b> SearchTestPom is created as per POM design pattern;</p>
+
+
+
 <!---
 - 👋 Hi, I’m @Sergey-SQA
 - 👀 I’m interested in qa and quality assurance
